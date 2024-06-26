@@ -1,1 +1,2 @@
-# Um cadastro de cliente simples, mostrando apenas a conexão com banco de dados.
+#Cadastra clientes 
+## Um cadastro de cliente simples, com e-mail e senha. somente para mostrar uma conexão com banco de dados.
